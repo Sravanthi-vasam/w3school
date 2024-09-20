@@ -1,0 +1,121 @@
+span
+{
+    background-color: black;
+    color: white;
+    padding: 7px 30px;
+    border-radius: 20px;
+    
+}
+
+#w1
+{
+    background-color:pink;
+    width: 40%;
+    height: 170px;
+    margin: 5px 25px 50px 100px;
+   float: left;
+   border-radius: 4px;
+}
+#w2
+{
+    background-color:rgb(243, 243, 109);
+    width: 40%;
+    height: 170px;
+    margin: 5px 25px 50px 100px;
+   float: left;
+   border-radius: 4px;
+}
+#w3
+{
+    background-color:rgb(240, 240, 222);
+    width: 40%;
+    height: 170px;
+    margin: 5px 25px 50px 100px;
+   float: left;
+   border-radius: 4px;
+   
+}
+#w4
+{
+    background-color:rgb(211, 236, 211);
+    width: 40%;
+    height: 170px;
+    margin: 5px 25px 50px 100px;
+   float: left;
+   border-radius: 4px;
+}
+
+#w5
+{
+    background-color:rgb(122, 197, 193);
+    width: 40%;
+    height: 170px;
+    margin: 5px 25px 50px 100px;
+   float: left;
+   border-radius: 4px;
+}
+#w6
+{
+    background-color:rgba(211, 210, 210, 0.922);
+    width: 40%;
+    height: 170px;
+    margin: 5px 25px 50px 100px;
+   float: left;
+   border-radius: 4px;
+}
+
+#w7
+{
+    background-color:rgb(239, 154, 168);
+    width: 40%;
+    height: 100px;
+    margin: 5px 25px 50px 100px;
+   float: left;
+   border-radius: 4px;
+}
+#w8
+{
+    background-color:rgb(241, 241, 147);
+    width: 40%;
+    height: 100px;
+    margin: 5px 25px 50px 100px;
+   float: left;
+   border-radius: 4px;
+}
+.all
+{
+    text-align: center;
+    
+    width: 15.35%;
+    height: 100px;
+    margin: 5px 25px 50px 100px;
+   float: left;
+   border-radius: 7px;
+}
+#w9,#w14,#w19,#w24,#w29,#w34,#w39,#w44,#w48
+{
+    background-color:rgb(168, 168, 168) ;
+}
+#w10,#w15,#w20,#w25,#w30,#w35,#w40
+{
+    background-color:rgb(167, 177, 141);
+}
+#w11,#w16,#w21,#w26,#w31,#w36,#w41,#w45
+{
+    background-color: rgb(112, 183, 183);
+}
+#w12,#w17,#w22,#w27,#w32,#w37,#w42,#w47
+{
+    background-color: lightpink;
+}
+#w13,#w18,#w23,#w28,#w33,#w38,#w43,#w46
+{
+    background-color: rgb(205, 205, 112);
+}
+#w45,#w46,#w47,#w48
+{   
+    width: 40%;
+    height: 100px;
+    margin:5px 25px 50px 100px;
+   float: left;
+}
